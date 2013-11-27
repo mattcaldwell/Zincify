@@ -8,3 +8,4 @@ venv
 default.db
 .DS_Store
 **/*/local_settings.py
+sigmund_app/
