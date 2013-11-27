@@ -5,3 +5,6 @@ test/temp
 test/bower_components/
 venv
 *.pyc
+default.db
+.DS_Store
+**/*/local_settings.py
